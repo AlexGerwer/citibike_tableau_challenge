@@ -200,9 +200,9 @@ The `citi_bike_data_Visualization_Tableau.twb` workbook contains the following v
 4.  **Growth in eBike Usage:** Combines visualizations 7 and 10.
 5.  **Types of Consumers:** Combines visualizations 1, 2, and 9.
 
-**Tableau Stories:**
+**Tableau Story Book Pages:**
 
-The Tableau workbook includes five stories that present the key findings:
+The Tableau story book includes five pages that present the key findings:
 
 1.  **Bicycle Ride Usage**
 2.  **Time Dependency of Bicycle Usage**
@@ -210,7 +210,11 @@ The Tableau workbook includes five stories that present the key findings:
 4.  **Individual vs Subscription Rides**
 5.  **Growth in Electric Bicycle Usage**
 
-Each story point includes visualizations and concise text summaries (added as captions or text objects on dashboards) explaining the key insights.  The summaries are provided in earlier responses of this conversation, and their incorporation into the Tableau file is also described.
+Each story book page includes visualizations and concise text summaries (added as captions or text objects on dashboards) explaining the key insights.  The summaries are provided in earlier responses of this conversation, and their incorporation into the Tableau file is also described.
+
+The corresponding Tableau Packaged Workbook file can be found here:
+
+https://drive.google.com/file/d/1TdhcW8BvKHSTIae4aQCIghUKLScTCU0b/view?usp=sharing 
 
 ## Key Findings and Insights
 

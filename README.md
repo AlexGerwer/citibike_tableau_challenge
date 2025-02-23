@@ -269,4 +269,4 @@ New York Citibike Visualizations in Tableau.pdf project summary.
 You can also see the webpage output of running the repository at https://public.tableau.com/app/profile/alex.gerwer/viz/citi_bike_data_Visualization_Tableau/BicycleRideUsage 
 
 ## License
-The project is released under the MIT License, which is a permissive open-source license that allows users to freely use, modify, distribute, and sublicense the software with minimal restrictions. This means that anyone can incorporate this project into their own work, whether for personal, academic, or commercial purposes, as long as the original copyright notice and license terms are included. For full details, refer to the LICENSE file in the repository.
+The project is released under the MIT License, which is a permissive open-source license that allows users to freely use, modify, distribute, and sublicense the software with minimal restrictions. This means that anyone can incorporate this project into their own work, whether for personal, academic, or commercial purposes, as long as the original copyright notice and license terms are included. 
